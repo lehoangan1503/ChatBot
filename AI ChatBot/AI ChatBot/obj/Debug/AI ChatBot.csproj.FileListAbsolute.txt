@@ -1,0 +1,12 @@
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\bin\Debug\AI ChatBot.exe.config
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\bin\Debug\AI ChatBot.exe
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\bin\Debug\AI ChatBot.pdb
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\bin\Debug\AIMLBot.dll
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\obj\Debug\AI ChatBot.csprojAssemblyReference.cache
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\obj\Debug\AI_ChatBot.Form1.resources
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\obj\Debug\AI_ChatBot.Properties.Resources.resources
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\obj\Debug\AI ChatBot.csproj.GenerateResource.cache
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\obj\Debug\AI ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\obj\Debug\AI ChatBot.csproj.CopyComplete
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\obj\Debug\AI ChatBot.exe
+C:\Users\An\source\repos\AI ChatBot\AI ChatBot\obj\Debug\AI ChatBot.pdb
